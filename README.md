@@ -1,3 +1,3 @@
 # bootcamp-linux-dio
 
-Commeçando bootcamp start.
+Começando bootcamp na Dio.Primeiro repositorio!
