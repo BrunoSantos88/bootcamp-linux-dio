@@ -23,7 +23,7 @@ sudo mount -t nfs4 IP:/ /var/lib/docker/volumes/app/_data
 Boa Sorte!
 
 <div align="center">
-<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+<img src="https://user-images.githubusercontent.com/91704169/181019175-ce2566e7-2a19-4637-837c-e3fdc6b23005.png" />
 </div>
 
 
