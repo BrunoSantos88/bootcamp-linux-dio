@@ -27,10 +27,5 @@ Boa Sorte!
 </div>
 
 
-<img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /> +
-<img align="center" alt="Rafa-Js" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /> +
-<img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> +
-
-
 
 
