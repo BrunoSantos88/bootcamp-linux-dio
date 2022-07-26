@@ -21,3 +21,5 @@ Uma dica caso user EFS da AWS .
 sudo mount -t nfs4 IP:/ /var/lib/docker/volumes/app/_data
 
 Boa Sorte!
+
+ <img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
