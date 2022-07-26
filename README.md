@@ -22,7 +22,7 @@ sudo mount -t nfs4 IP:/ /var/lib/docker/volumes/app/_data
 
 Boa Sorte!
 
-<img align="center" alt="Rafa-Js" height="980" width="800" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img align="center" alt="Rafa-Js" height="980" width="800" src="https://drive.google.com/file/d/1e2JSPpHkW44hyCVJqGCDqjqTs5Lb9Fhk/view?usp=sharing" />
 
 
 <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /> +
