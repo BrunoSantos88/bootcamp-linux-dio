@@ -23,7 +23,7 @@ sudo mount -t nfs4 IP:/ /var/lib/docker/volumes/app/_data
 Boa Sorte!
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/91704169/181019175-ce2566e7-2a19-4637-837c-e3fdc6b23005.png" />
+<img src="https://user-images.githubusercontent.com/91704169/181070722-2e8bb88c-a319-4e9a-89fa-32c7aa5a4090.png" />
 </div>
 
 
