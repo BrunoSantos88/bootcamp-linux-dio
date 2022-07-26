@@ -16,3 +16,8 @@ terminado.
 
 Gostaria de ter emplementado o trafeik como proxy reverso, mais deixa para proxima.
 
+Uma dica caso user EFS da AWS .
+
+sudo mount -t nfs4 IP:/ /var/lib/docker/volumes/app/_data
+
+Boa Sorte!
