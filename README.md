@@ -1,4 +1,4 @@
-# Cloud-DevOps-Experience-DIO
+# Linux Experience-DIO
 
 Prepare-se Para a Jornada (Onboarding),
 Conhecendo o Sistema Operacional Linux,
