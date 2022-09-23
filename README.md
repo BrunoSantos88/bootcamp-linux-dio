@@ -1,12 +1,6 @@
 # Linux Experience-DIO
 
-Prepare-se Para a Jornada (Onboarding),
-Conhecendo o Sistema Operacional Linux,
-Desmistificando o Docker,
-Kubernetes do Zero à Produção,
-Arquiteturas de Aplicações e CI/CD na Prática,
-Google Cloud Foundations,
-DevOps na Nuvem com Google Cloud Plataform (GCP).
+Este programa é para profissionais de tecnologia que querem aperfeiçoar seus conhecimentos no sistema operacional Linux em uma trilha imersiva, rápida e eficiente. O Linux Experience possui apenas 41 horas, que você pode finalizar em poucos dias, de atividades 100% voltadas para os desafios do mercado de trabalho.   Nesse programa você vai aprender a principal vocação do sistema operacional Linux, seus comandos fundamentais e como gerenciar serviços de um servidor.  Após gerar o seu certificado de conclusão, o seu perfil ficará disponível para as empresas parceiras da DIO que estão contratando.
 
 
 <img src="https://user-images.githubusercontent.com/91704169/190016140-c3673f38-dec8-4b83-a9be-5631e13b8cd0.png" min-width="200px" max-width="200px" width="200
